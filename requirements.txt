@@ -1,0 +1,8 @@
+openai
+langchain
+tiktoken
+pinecone-client
+cohere
+streamlit
+pandas
+ragas
